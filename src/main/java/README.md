@@ -24,5 +24,4 @@ A Java application that manages employee data using JDBC. Supports CRUD operatio
 - ![img_2.png](img_2.png)
 - Updated employee
 - ![img_3.png](img_3.png)
-### Insert Employee:
 
